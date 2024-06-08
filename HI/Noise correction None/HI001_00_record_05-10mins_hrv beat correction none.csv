@@ -1,12 +1,12 @@
 sep=,
-HRV ANALYSIS RESULTS - 07-Jun-2024 17:26:54
+HRV ANALYSIS RESULTS - 07-Jun-2024 17:44:56
 Kubios HRV Scientific
 4.1.1
 released in April 2024
 
 Analyzed by:  -  - 
 
-File name: C:\Users\admin\Desktop\2024 Montefiore\src\2024 Montefiore\to be analyzed\HI001_00_record_05-10mins.csv
+File name: C:\Users\admin\Documents\gits\kubios\to be analyzed\HI001_00_record_05-10mins.csv
 Measurement date:  00:00:00
 File type: asciiCUSTOMPPG
 Channel label: EKG
@@ -50,13 +50,13 @@ Performed Analysis
 
 RR Interval Samples Selected for Analysis
                               ,    Sample 1,
-  Sample limits (hh:mm:ss):   ,00:00:00-00:04:59,
+  Sample limits (hh:mm:ss):   ,00:00:00-00:04:57,
   Sample Analysis Type: Single sample
   Beat correction: none
-  Beats total:                ,         283,
+  Beats total:                ,         282,
   Beats corrected:            ,           -,
   Beats corrected (%):        ,           -,
-  Effective data length (s):  ,         299,
+  Effective data length (s):  ,         297,
   Effective data length (%):  ,      100.00,
 
 
@@ -64,30 +64,30 @@ RESULTS FOR A SINGLE SAMPLE
 STANDARD RESULTS
 
 Results Overview              ,
-  PNS index:                  ,     20.3791,            ,
-  SNS index:                  ,     -1.9939,            ,
-  Stress index:               ,      1.0783,            ,
+  PNS index:                  ,     20.3716,            ,
+  SNS index:                  ,     -1.9868,            ,
+  Stress index:               ,      1.0808,            ,
 
 Time-Domain Results           ,
  Statistical parameters       ,
-  Mean RR  (ms):              ,   1046.3251,            ,
-  SDNN (ms):                  ,    576.4482,            ,
-  Mean HR (beats/min):        ,     57.3436,            ,
-  SD HR (beats/min):          ,   6284.7204,            ,
+  Mean RR  (ms):              ,   1044.4965,            ,
+  SDNN (ms):                  ,    576.2582,            ,
+  Mean HR (beats/min):        ,     57.4439,            ,
+  SD HR (beats/min):          ,   6512.0801,            ,
   Min HR (beats/min):         ,     21.9042,            ,
   Max HR (beats/min):         ,    240.7705,            ,
-  RMSSD (ms):                 ,    777.7920,            ,
-  NNxx (beats):               ,         228,            ,
-  pNNxx (%):                  ,     80.8511,            ,
+  RMSSD (ms):                 ,    777.8225,            ,
+  NNxx (beats):               ,         227,            ,
+  pNNxx (%):                  ,     80.7829,            ,
   SDANN (ms):                 ,         NaN,            ,
   SDNN index (ms):            ,         NaN,            ,
  Geometric parameters         ,
-  RR tri index:               ,   40.428571,            ,
-  TINN (ms):                  ,   3821.0000,            ,
+  RR tri index:               ,   40.285714,            ,
+  TINN (ms):                  ,   3820.0000,            ,
   DC (ms):                    ,    250.6827,            ,
   DCmod (ms):                 ,    598.7070,            ,
-  AC (ms):                    ,   -233.3612,            ,
-  ACmod (ms):                 ,   -620.0088,            ,
+  AC (ms):                    ,   -233.0211,            ,
+  ACmod (ms):                 ,   -613.8473,            ,
 
 Frequency-Domain Results      ,FFT spectrum, AR spectrum,
  Peak frequencies             ,
@@ -114,23 +114,23 @@ Frequency-Domain Results      ,FFT spectrum, AR spectrum,
 
 Nonlinear Results             ,
  Poincare plot                ,
-  SD1 (ms):                   ,  550.963573,            ,
-  SD2 (ms):                   ,  601.547601,            ,
-  SD2/SD1 ratio:              ,    1.091810,            ,
- Approximate entropy (ApEn):  ,      0.9221,            ,
- Sample entropy (SampEn):     ,      0.9819,            ,
+  SD1 (ms):                   ,  550.984862,            ,
+  SD2 (ms):                   ,  602.272399,            ,
+  SD2/SD1 ratio:              ,    1.093083,            ,
+ Approximate entropy (ApEn):  ,      0.9160,            ,
+ Sample entropy (SampEn):     ,      0.9797,            ,
  Detrended fluctuation analysis (DFA),
   alpha 1:                    ,      0.8132,            ,
   alpha 2:                    ,      0.4417,            ,
  Correlation dimension (D2):  ,      0.0000,            ,
  Recurrence plot analysis (RPA),
-  Mean line length (beats):   ,     14.8031,            ,
+  Mean line length (beats):   ,     14.7833,            ,
   Max line length (beats):    ,          78,            ,
-  Recurrence rate (REC) (%):  ,     45.5112,            ,
-  Determinism (DET) (%):      ,     99.0400,            ,
-  Shannon entropy:            ,      3.4790,            ,
+  Recurrence rate (REC) (%):  ,     45.4669,            ,
+  Determinism (DET) (%):      ,     99.0320,            ,
+  Shannon entropy:            ,      3.4731,            ,
  Multiscale entropy (MSE for scales 1-20),
-  MSE(1):                     ,      0.9819,            ,
+  MSE(1):                     ,      0.9797,            ,
   MSE(2):                     ,      1.1413,            ,
   MSE(3):                     ,      1.2045,            ,
   MSE(4):                     ,      0.9620,            ,
@@ -477,6 +477,5 @@ RR INTERVAL DATA and SPECTRUM ESTIMATES,
                               ,     292.780,       0.916,            ,            ,            ,            ,            ,            ,            ,            ,            ,            ,
                               ,     294.732,       1.952,            ,            ,            ,            ,            ,            ,            ,            ,            ,            ,
                               ,     295.522,       0.790,            ,            ,            ,            ,            ,            ,            ,            ,            ,            ,
-                              ,     297.084,       1.562,            ,            ,            ,            ,            ,            ,            ,            ,            ,            ,
 
 
